@@ -1,5 +1,5 @@
 # ami2020
-Official repository of AMI, the shared task on Automatic Misogyny Identification at Evalita 2020
+Official repository of [AMI]((https://amievalita2020.github.io/#about), the shared task on Automatic Misogyny Identification at [Evalita 2020](http://www.evalita.it/).
 
 Training set available filling in this [form](https://forms.gle/uFF3sAtMMqayiDiz9); an email notification will be sent with instructions and details about how to download the data.
 
