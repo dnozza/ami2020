@@ -27,7 +27,7 @@ The evaluation script can be used for evaluating the results both of Subtask A a
 For running the evaluation script for Subtask A, you can run something like the following:
 
 ```bash
-python evaluation submission.py \
+python evaluation_submission.py \
 --submission_path teamName.zip \
 --gold_path_raw AMI2020_TrainingSet/AMI2020_TrainingSet.tsv \
 --task a \
@@ -40,7 +40,7 @@ python evaluation submission.py \
 For running the evaluation script for Subtask B, you can run something like the following:
 
 ```bash
-python evaluation submission.py \
+python evaluation_submission.py \
 --submission_path teamName.zip \
 --gold_path_raw AMI2020_TrainingSet/AMI2020_TrainingSet.tsv \
 --gold_path_synt AMI2020_TrainingSet/AMI2020_training_synt.tsv \
