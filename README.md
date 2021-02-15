@@ -51,7 +51,7 @@ python evaluation_submission.py \
 
 ## References
 
-If you use this in a research work please cite this paper:
+If you use this in a research work please cite this [paper](http://ceur-ws.org/Vol-2765/paper161.pdf):
 
     @inproceedings{Fersini2020, 
       author = {Elisabetta Fersini, Debora Nozza, Paolo Rosso},
