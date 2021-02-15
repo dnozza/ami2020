@@ -49,6 +49,21 @@ python evaluation_submission.py \
 --output_path result.tsv
 ```
 
+## References
+
+::
+
+    @inproceedings{Fersini2020, 
+      author = {Elisabetta Fersini, Debora Nozza, Paolo Rosso},
+      title = {AMI @ EVALITA2020: Automatic Misogyny Identification},
+      booktitle = {{Proceedings of the 7th evaluation campaign of Natural Language Processing and Speech tools for Italian (EVALITA 2020)}},
+      editor = {Basile, Valerio and Croce, Danilo and Di Maro, Maria and Passaro, Lucia C.},
+      year = {2020},
+      publisher = {CEUR.org},
+      address = {Online}
+    }
+
+
 ## Contacts
 
 If you find issues on the evaluation script, please contact **Debora Nozza**: [Twitter](https://twitter.com/debora_nozza) | [Github](https://github.com/dnozza) | [Webpage](https://dnozza.github.io)
